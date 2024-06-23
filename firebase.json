@@ -3,9 +3,7 @@
     "site": "afrida",
     "public": "dist",
     "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
+      "firebase.json"
     ],
     "rewrites": [
       {

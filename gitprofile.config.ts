@@ -9,7 +9,7 @@ const CONFIG = {
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
-  base: '/gitprofile/',
+  base: '/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -39,9 +39,9 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    facebook: 'https://www.facebook.com/profile.php?id=100072359490583',
-    instagram: 'https://www.instagram.com/rafu._.afrida/',
-    threads: 'https://www.threads.net/@rafu._.afrida',
+    facebook: '100072359490583',
+    instagram: 'rafu._.afrida',
+    threads: 'rafu._.afrida',
     website: 'https://rafia.web.app',
     email: 'afridarafia@proton.me',
   },
