@@ -43,7 +43,7 @@ const CONFIG = {
     instagram: 'rafu._.afrida',
     threads: 'rafu._.afrida',
     website: 'https://rafia.web.app',
-    email: 'afridarafia@proton.me',
+    email: 'afridarafia139@gmail.com',
   },
   resume: {
     fileUrl:
